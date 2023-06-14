@@ -1,0 +1,8 @@
+D:\C#\9-pass_by_value & pass_by_reference\practice_9\practice_9\bin\Debug\practice_9.exe.config
+D:\C#\9-pass_by_value & pass_by_reference\practice_9\practice_9\bin\Debug\practice_9.exe
+D:\C#\9-pass_by_value & pass_by_reference\practice_9\practice_9\bin\Debug\practice_9.pdb
+D:\C#\9-pass_by_value & pass_by_reference\practice_9\practice_9\obj\Debug\practice_9.csproj.AssemblyReference.cache
+D:\C#\9-pass_by_value & pass_by_reference\practice_9\practice_9\obj\Debug\practice_9.csproj.SuggestedBindingRedirects.cache
+D:\C#\9-pass_by_value & pass_by_reference\practice_9\practice_9\obj\Debug\practice_9.csproj.CoreCompileInputs.cache
+D:\C#\9-pass_by_value & pass_by_reference\practice_9\practice_9\obj\Debug\practice_9.exe
+D:\C#\9-pass_by_value & pass_by_reference\practice_9\practice_9\obj\Debug\practice_9.pdb
